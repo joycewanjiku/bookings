@@ -1,0 +1,86 @@
+body{
+    background-color: cornsilk;
+}
+
+.homepage{
+    background-image: url("./company.jpg");
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.nav{
+    display: flex;
+}
+#brj{
+background-image: url("./BRJ.jpg");
+height: 400px;
+background-repeat: no-repeat;
+}
+#BIG{
+background-image: url("./BIG\ .jpeg");
+height: 400px;
+background-repeat: no-repeat;
+}
+#taj{
+background-image: url("./BIG.jpg");
+height: 400px;
+background-repeat: no-repeat;
+}
+width: 100PX;
+height: 100px;
+
+}
+#lunch{
+    padding-right: 30px;
+}
+.icons{
+    /* display: flex;/ */
+}
+.all icons{
+    display: flex;
+    justify-content: center;
+}
+/* ..beds{
+    display: flex; */
+
+/* } */
+.second{
+    display: flex;
+    width: 20px;
+    box-shadow: 10px;
+}
+.third{
+    display: flex;
+}
+.food{
+    display: flex;
+}
+.goodfood{
+    display: flex;
+}
+.client{
+    display: flex;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.image{
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.buttons{
+    display: flex;
+}
+.Hotels{
+    display: flex;
+}
+.footer{
+    display: flex;
+    gap: 100PX;
+    padding: 5%;
+}
+.NEWS{
+    background-color: blue;
+    border-top-right-radius: 20px;
+    border-top-left-radius:20px ;
+    color: white;
+}
