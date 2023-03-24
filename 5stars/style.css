@@ -1,0 +1,62 @@
+
+.imag{
+    display: flex;
+    
+}
+.food{
+    display: flex;
+}
+.star{
+    
+    display: flex;
+}
+.ABOUT{
+    display: flex;
+}
+#butn{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.icons{
+    display: flex;
+}
+.web{
+    display: flex;
+}
+.food{
+    display: flex;
+    background-color: white;
+    
+}
+.LEARN{
+    display: flex;
+}
+body{
+/* background-color:  #3CA6A6;;/ */
+background-color: #F2E3D5;
+}
+.NURO{
+    display: flex;
+}
+#logs{
+    display: flex;
+}
+#SI{
+    background-color: #00BBC9;
+}
+.navbar{
+    display: flex;
+    /* padding: 0px 20px; */
+    margin-left: 30%;
+    gap: 30%;
+}
+#butn6{
+    margin-left: 50%;
+    display: flex;
+}
+.LEARN{
+    display: flex;
+    margin-left: 30%;
+    gap: 30%;
+}
+
