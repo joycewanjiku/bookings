@@ -1,21 +1,29 @@
-/* @media screen and (max-width:600px){
+ @media screen and (min-width:600px)and(max-width:800px){
     .navbar{
     
         font-size: 30%;
     
         }
         #second{
-            width: 100%;
-            height: 100%;
+            width: 5%;
+            height: 5%;
         }
         #third{
-            width: 100%;
-            height: 100%;
+            width: 5%;
+            height: 5%;
+        }
+        #food{
+            width: 5%;
+            height: 5%;
+        }
+        .goodfood{
+            width: 5%;
+            height: 5%;
         }
 
 
     }
-    @media screen and(max-width:600){
+    /* @media screen and(max-width:600){
         .main{
             width: 100%;
             border-radius: 8%;
@@ -24,5 +32,11 @@
             width: 2%;
             height: 5%;
         }
-        
-    } */
+        /* Exact height */
+/* @media (height: 360px) {
+    {
+        width: 10%;
+        height: 10%;
+      
+    }
+ 
