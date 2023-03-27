@@ -30,6 +30,7 @@
 }
 .LEARN{
     display: flex;
+    justify-content: center;
 }
 body{
 /* background-color:  #3CA6A6;;/ */

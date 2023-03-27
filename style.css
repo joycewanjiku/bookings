@@ -168,6 +168,14 @@ nav{
     border-radius: 20%;
     background-color: blue;
 }
+.about1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
 /* @media(min-width: 1281px){ */
 
 /* } */
