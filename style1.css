@@ -60,4 +60,16 @@ background-color: #F2E3D5;
     margin-left: 30%;
     gap: 30%;
 }
+.details{
+    display: flex;
+}
+.lastone{
+display: flex;
+}
 
+.about1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
