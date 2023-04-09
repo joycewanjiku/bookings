@@ -1,6 +1,8 @@
 
-.imag{
+.image{
     display: flex;
+    margin-bottom: 50%;
+
     
 }
 .food{
@@ -63,13 +65,7 @@ background-color: #F2E3D5;
 .details{
     display: flex;
 }
-.lastone{
-display: flex;
+.body{
+    overflow-x: hidden;
 }
 
-.about1{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   
-}

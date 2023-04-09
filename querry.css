@@ -1,42 +1,20 @@
- /* @media screen and (min-width:600px)and(max-width:800px){
-    .navbar{
-    
-        font-size: 30%;
-    
-        }
-        #second{
-            width: 5%;
-            height: 5%;
-        }
-        #third{
-            width: 5%;
-            height: 5%;
-        }
-        #food{
-            width: 5%;
-            height: 5%;
-        }
-        .goodfood{
-            width: 5%;
-            height: 5%;
-        } */
+ @media(max-width: 600px){
+.home{
+    font-size: 65px;
+}
+}
+.second{
+    width: 10px;
+    height: 10px;
+} 
+.star{
+    width: 10px;
+    height: 10px;
+}
+.footer{
+margin-bottom: 60px;
+height: 50px;
+width: 10px;
+}
 
-
-    /* } */
-    /* @media screen and(max-width:600){
-        .main{
-            width: 100%;
-            border-radius: 8%;
-        }
-        .Hotels{
-            width: 2%;
-            height: 5%;
-        }
-        /* Exact height */
-/* @media (height: 360px) {
-    {
-        width: 10%;
-        height: 10%;
-      
-    }
- 
+    

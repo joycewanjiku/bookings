@@ -57,7 +57,7 @@ nav{
 /* } */
 .second{
     display: flex;
-    width: 20px;
+    width: 10px;
     box-shadow: 10px;
 }
 .third{
@@ -94,10 +94,7 @@ nav{
     border-top-right-radius: 20px;
     border-top-left-radius:20px ;
     color: white;
-}
-#buttons{
-    /* background-color: blue; */
-    /* border-radius: 20px;/ */
+
 }
 #button{
      background-color: blue;
@@ -168,6 +165,97 @@ nav{
     border-radius: 20%;
     background-color: blue;
 }
+
+#B{
+    /* background-color: #00BBC9;
+border-radius: 10%; */
+outline-color: transparent;
+outline-style:solid;
+box-shadow: 0 0 0 4px #6d24ae;
+transition: 0.7s;
+background-color: #00BBC9;
+}
+#BU{
+    /* background-color: #00BBC9;
+    border-radius: 10%;
+    transition: 0.7s; */
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #6d24ae;
+    transition: 0.7s;
+    background-color: #00BBC9;
+}
+.details{
+    align-items: center;
+    justify-content: center;
+}
+#SU{
+    background-color: #00BBC9;
+}
+.lastone{
+    display: flex;
+    border-radius: 20%;
+    
+}
+.AT{
+display: grid;
+grid-template-columns: repeat(2.1fr);
+}
+.about1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
+.about2{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+       
+}
+.about3{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
+.LEARN{
+    display: flex;
+    display: flex;
+    margin-left: 30%;
+    gap: 30%;
+}
+.hotelimage{
+    display: flex;
+    margin-bottom: 20%;
+}
+#LO{
+    background-color: peachpuff;
+    border-radius: 20px;
+
+
+}
+#butn{
+    background-color: brown;
+    border-radius: 20px;
+    
+}
+#NOT{
+background-color: brown;
+border-radius: 20px;
+}
+.main2{
+    gap: 20px;
+}
+.hotelimage{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+.small-imag{
+    display: grid;
+    grid-template-columns: repeat(3,3fr);
+}
+
+
+
 
 
 /* @media(min-width: 1281px){ */
